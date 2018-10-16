@@ -1,2 +1,2 @@
 # hello-world
-First
+This is a test. My first edir ever. Interesting stuff :)
